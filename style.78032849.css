@@ -68,12 +68,18 @@ h2 {
     .align {
         align-self: flex-end;
     }
+
+    .ribbon {
+        transform: translateY(-25%)
+    }
 }
+
 @media only screen and (max-width: 768px) {
-    .bigImg{
+    .bigImg {
         width: 200% !important;
         height: 200px !important;
     }
+
 }
 
 /*# sourceMappingURL=/style.78032849.css.map */
